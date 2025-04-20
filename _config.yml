@@ -24,11 +24,8 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Yiqi Li"
-  pronouns         : # example: "she/her"  
-  bio              : ""
   location         : "Xi’an, Shaanxi, China"
   employer         : "XDU"
-  uri              : ""
   email            : "yqli_2@stu.xidian.edu.cn" 
 
   # Academic websites
@@ -37,7 +34,6 @@ author:
   impactstory      : # URL
   orcid            : "https://orcid.org/0009-0004-8823-6604"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
   scopus           : # URL
 
